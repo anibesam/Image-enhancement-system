@@ -5,4 +5,4 @@ Python Image Enhancement System using General Histogram Equalization and Homomor
 # Getting Started
 install all the required modules
 
-Twitter: https://twitter.com/sambezalel
+Follow me on Twitter: https://twitter.com/sambezalel
