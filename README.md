@@ -4,6 +4,5 @@ Python Image Enhancement System using General Histogram Equalization and Homomor
 ![alt text](https://github.com/sambezalel/Image-enhancement-system/blob/main/live.png?raw=true)
 # Getting Started
 install all the required modules
-- Opencv
-- Scikit-image
-- Numpy
+
+Twitter: https://twitter.com/sambezalel
