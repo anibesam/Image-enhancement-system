@@ -405,7 +405,7 @@ def about():
 def welcome():
 
     messagebox.showinfo('WELCOME',
-                        'This App is developed Anibe Sam http://twitter.com/sambezalel on Twitter')
+                        'This App is developed by Anibe Sam http://twitter.com/anibesam on Twitter')
 
 # Calling Documentation Button
 
