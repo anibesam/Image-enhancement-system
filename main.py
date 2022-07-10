@@ -302,7 +302,7 @@ panelY = None
 # TERMINATING HISTOGRAM EQUALIZATION
 # PART OF FUNCTIONS
 
-#ANIBE SAM -- [08100135069] -- 
+#ANIBE SAMUEL 
 #------------------------------PROPOSED SYSTEM FUNCTION-----------------------------------------
 def proposed_sys():
     # grab a reference to the image panels
